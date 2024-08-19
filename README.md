@@ -1,16 +1,27 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 Passionate about web development with a focus on modern frameworks and technologies. Currently diving into Nuxt.js, and exploring everything related to building cutting-edge web applications.<br>
+🌐 Excited about the recent developments in AI integration on the client side with WebGPU.<br>
+💬💻 Always on the lookout for interesting projects and collaborations. Feel free to reach out with questions or for potential opportunities!
 
-<!--
-**GianlucaIavicoli/GianlucaIavicoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianluca-iavicoli-684b32262) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gianluca.iavicoli)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyUI-%23000000.svg?style=for-the-badge&logo=daisyui&logoColor=white) ![Shadcn](https://img.shields.io/badge/shadcn-%23000000.svg?style=for-the-badge&logo=shadcn&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/nuxt.js-%233DCE40.svg?style=for-the-badge&logo=nuxt.js&logoColor=white) ![Prisma](https://img.shields.io/badge/prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%234F5B93.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234F5B93.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/mariadb-%234F5B93.svg?style=for-the-badge&logo=mariadb&logoColor=white) ![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Mailtrap](https://img.shields.io/badge/mailtrap-%2300A5E0.svg?style=for-the-badge&logo=mailtrap&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) [![Zod](https://img.shields.io/badge/Zod-Validation-6200EE?style=for-the-badge&logo=zod&logoColor=white)](https://zod.dev/)
+
+# 📊 GitHub Stats:
+ 
+<table>
+  <tr>
+    <td valign="top">
+      <a href="http://www.github.com/GianlucaIavicoli"><img src="https://github-readme-stats.vercel.app/api?username=GianlucaIavicoli&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MatteoFasulo's GitHub stats" /></a>
+    </td>
+    <td valign="top">  
+      <a href="http://www.github.com/GianlucaIavicoli"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GianlucaIavicoli&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+  </tr>
+</table>
+
+
+<a href="http://www.github.com/GianlucaIavicoli"><img src="https://github-readme-activity-graph.vercel.app/graph?username=gianlucaiavicoli&theme=react-dark" alt="GitHub Commits Graph" /></a>
