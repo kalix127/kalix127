@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Passionate about web development with a focus on modern frameworks and technologies. Currently diving into Nuxt.js, and exploring everything related to building cutting-edge web applications.<br>
 🌐 Excited about the recent developments in AI integration on the client side with WebGPU.<br>
-💬💻 Always on the lookout for interesting projects and collaborations. Feel free to reach out with questions or for potential opportunities!
+💬 Always on the lookout for interesting projects and collaborations. Feel free to reach out with questions or for potential opportunities!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianluca-iavicoli-684b32262) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gianluca.iavicoli)
