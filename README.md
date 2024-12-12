@@ -17,10 +17,10 @@
 <table>
   <tr>
     <td valign="top">  
-      <a href="http://www.github.com/GianlucaIavicoli"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GianlucaIavicoli&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+      <a href="http://www.github.com/kalix127"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kalix127&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
   </tr>
 </table>
 
 
-<a href="http://www.github.com/GianlucaIavicoli"><img src="https://github-readme-activity-graph.vercel.app/graph?username=gianlucaiavicoli&theme=react-dark" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/kalix127"><img src="https://github-readme-activity-graph.vercel.app/graph?username=kalix127&theme=react-dark" alt="GitHub Commits Graph" /></a>
