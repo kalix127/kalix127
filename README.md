@@ -1,26 +1,41 @@
-# 💫 About Me:
-🔭 Passionate about web development with a focus on modern frameworks and technologies. Currently diving into Nuxt.js, and exploring everything related to building cutting-edge web applications.<br>
-🌐 Excited about the recent developments in AI integration on the client side with WebGPU.<br>
-💬 Always on the lookout for interesting projects and collaborations. Feel free to reach out with questions or for potential opportunities!
+<h2 align="center">
+  Hi, I'm Gianluca Iavicoli
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianluca-iavicoli-684b32262) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gianluca.iavicoli)
+<p align="center">
+Self-taught and self-motivated Web Developer with intermediate experience working on multiple projects. Passionate and hardworking, with a keen interest in learning new technologies.
+</p>
 
+<p align="center">
+  You can contact me at <a href="mailto:info@gianluciaiavicoli.dev">info@gianluciaiavicoli.dev</a><br>
+  🤝 I'm open to collaborating.
+</p>
 
-# 💻 Tech Stack:
-![Nuxt.js](https://img.shields.io/badge/nuxt.js-%233DCE40.svg?style=for-the-badge&logo=nuxt.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Prisma](https://img.shields.io/badge/prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%234F5B93.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/mariadb-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<h1 align="center">I've worked with these technologies</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?theme=dark&i=nuxt,vue,pinia,js,ts,vite,vitest,css,tailwind,prisma,postgres,mysql,mongodb,sqlite,nodejs,prisma,py,django,git,github,githubactions,bash,linux,arch,vim,neovim,lua,aws,gcp,docker,nginx,vercel,cloudflare,npm,pnpm,md,figma" alt="Technologies">
+  </a>
+</p>
 
+![Snake animation](https://raw.githubusercontent.com/kalix127/kalix127/output/github-contribution-grid-snake-dark.svg)
 
-
-# 📊 GitHub Stats:
- 
-<table>
-  <tr>
-    <td valign="top">  
-      <a href="http://www.github.com/kalix127"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kalix127&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<h1 align="center">Github Stats</h1>
+<table align="center" style="border: none">
+  <tr style="border: none;">
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img
+          src="https://github-readme-streak-stats-two-amber.vercel.app?user=kalix127&theme=dark&hide_border=true&stroke=2DBA4E&ring=2DBA4E&fire=2DBA4E&currStreakLabel=2DBA4E"
+          alt="GitHub Streak"
+        />
+      </a>
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats-kalix127.vercel.app/api?username=kalix127&theme=dark&hide_border=true&show_icons=true&hide_rank=true&number_format=true&hide=commits&show=prs_merged"
+      />
     </td>
   </tr>
 </table>
-
-
-<a href="http://www.github.com/kalix127"><img src="https://github-readme-activity-graph.vercel.app/graph?username=kalix127&theme=react-dark" alt="GitHub Commits Graph" /></a>
