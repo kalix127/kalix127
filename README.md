@@ -14,8 +14,8 @@ Self-taught and self-motivated Web Developer with intermediate experience workin
 
 <h1 align="center">I've worked with these technologies</h1>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?theme=dark&i=nuxt,vue,pinia,js,ts,vite,vitest,css,tailwind,prisma,postgres,mysql,mongodb,sqlite,nodejs,prisma,py,django,git,github,githubactions,bash,linux,arch,vim,neovim,lua,aws,gcp,docker,nginx,vercel,cloudflare,npm,pnpm,md,figma" alt="Technologies">
+  <a href="https://skills-icons.vercel.app">
+    <img src="https://skills-icons.vercel.app/api/icons?theme=dark&i=nuxt,vue,pinia,js,ts,vite,vitest,css,tailwind,prisma,postgres,mysql,mongodb,sqlite,nodejs,prisma,py,django,git,github,githubactions,bash,linux,arch,vim,neovim,lua,aws,gcp,docker,nginx,vercel,cloudflare,npm,pnpm" alt="Technologies">
   </a>
 </p>
 
