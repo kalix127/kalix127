@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-Self-taught and self-motivated Web Developer with intermediate experience working on multiple projects. Passionate and hardworking, with a keen interest in learning new technologies.
+Self-taught and self-motivated Web Developer with intermediate experience working on multiple projects. Passionate and hardworking, with a keen interest in learning new technologies. (i use arch btw)
 </p>
 
 <p align="center">
