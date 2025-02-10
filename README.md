@@ -8,7 +8,7 @@ Self-taught and self-motivated Web Developer with intermediate experience workin
 </p>
 
 <p align="center">
-  You can contact me at <a href="mailto:info@gianlucaiaiavicoli.dev">info@gianluciaiavicoli.dev</a><br>
+  You can contact me at <a href="mailto:info@gianlucaiaiavicoli.dev">info@gianlucaiaiavicoli.dev</a><br>
   🤝 I'm open to collaborating.
 </p>
 
