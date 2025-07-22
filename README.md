@@ -9,7 +9,7 @@ A self-taught front-end developer based in Italy with hands-on experience buildi
 
 <p align="center">
   You can contact me at <a href="mailto:info@gianlucaiaiavicoli.dev">info@gianlucaiaiavicoli.dev</a><br>
-  🤝 I'm open to collaborating.
+  🤝 Open to collaboration.
 </p>
 
 <h1 align="center">I've worked with these technologies</h1>
