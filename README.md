@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-Self-taught and self-motivated Web Developer with intermediate experience working on multiple projects. Passionate and hardworking, with a keen interest in learning new technologies. (i use arch btw)
+A self-taught front-end developer based in Italy with hands-on experience building modern, responsive web applications using Vue.js, Nuxt.js, and Tailwind CSS. Also an open source contributor in the Vue.js ecosystem, helping to improve component libraries like shadcn-vue and Inspira UI through code contributions and community engagement.
 </p>
 
 <p align="center">
