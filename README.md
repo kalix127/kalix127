@@ -4,10 +4,16 @@
 </h1>
 
 <p align="center">
-A self-taught front-end developer based in Italy with hands-on experience building modern, responsive web applications using Vue.js, Nuxt.js, and Tailwind CSS. Also an open source contributor in the Vue.js ecosystem, helping to improve component libraries like shadcn-vue and Inspira UI through code contributions and community engagement.
+A self-taught front-end developer
 </p>
 
 <p align="center">
   You can contact me at <a href="mailto:info@gianlucaiaiavicoli.dev">info@gianlucaiaiavicoli.dev</a><br>
   🤝 Open to collaboration.
 </p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats-kalix127.vercel.app/api?username=kalix127&show_icons=true&theme=radical&bg_color=00000000&number_format=long&show=prs_merged,reviews" alt="Asterisk's GitHub stats"/>
+</p>
+
