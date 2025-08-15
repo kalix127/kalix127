@@ -1,11 +1,3 @@
-<h1 align="center">
-  Hi, I'm Gianluca
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
-
-<p align="center">
-A self-taught front-end developer
-</p>
 
 <p align="center">
   Currently maintaining <a href="https://github.com/unovue/inspira-ui"><strong>Inspira UI</strong></a><br>
