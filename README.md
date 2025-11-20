@@ -1,6 +1,5 @@
 
 <p align="center">
-  Currently maintaining <a href="https://github.com/unovue/inspira-ui"><strong>Inspira UI</strong></a><br>
   You can contact me at <a href="mailto:info@gianlucaiaiavicoli.dev">info@gianlucaiaiavicoli.dev</a><br>
 </p>
 
