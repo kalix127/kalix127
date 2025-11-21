@@ -1,6 +1,6 @@
 
 <p align="center">
-  You can contact me at <a href="mailto:info@gianlucaiaiavicoli.dev">info@gianlucaiaiavicoli.dev</a><br>
+  You can contact me at <a href="mailto:info@gianlucaiavicoli.dev">info@gianlucaiaiavicoli.dev</a><br>
 </p>
 
 
