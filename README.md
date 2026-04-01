@@ -1,7 +1,7 @@
 
 <p align="center">
   📧 Email: <a href="mailto:info@gianlucaiavicoli.dev">info@gianlucaiavicoli.dev</a><br>
-  💬 Matrix: <a href="https://matrix.to/#/@kalix:matrix.discreti.net">@kalix</a>
+  💬 Matrix: <a href="https://matrix.to/#/@kalix:matrix.discreti.net">@kalix:matrix.discreti.net</a>
 </p>
 
 <p align="center">
