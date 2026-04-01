@@ -1,9 +1,14 @@
 
 <p align="center">
-  You can contact me at <a href="mailto:info@gianlucaiavicoli.dev">info@gianlucaiavicoli.dev</a><br>
+  📧 Email: <a href="mailto:info@gianlucaiavicoli.dev">info@gianlucaiavicoli.dev</a><br>
+  💬 Matrix: <a href="https://matrix.to/#/@kalix:matrix.discreti.net">@kalix</a>
 </p>
-
 
 <p align="center">
-  <img src="https://github-readme-stats-kalix127.vercel.app/api?username=kalix127&show_icons=true&theme=radical&bg_color=00000000&number_format=long&show=prs_merged,reviews" alt="Kalix127 GitHub stats"/>
+  <img src="https://raw.githubusercontent.com/kalix127/github-stats-transparent/output/generated/overview.svg" alt="GitHub Stats Overview">
+  <img src="https://raw.githubusercontent.com/kalix127/github-stats-transparent/output/generated/languages.svg" alt="Top Languages">
 </p>
+
+### Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
