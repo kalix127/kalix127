@@ -11,7 +11,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6363](https://github.com/element-hq/element-x-android/pull/6363#issuecomment-4198443511) in [element-hq/element-x-android](https://github.com/element-hq/element-x-android)
+1. 🗣 Commented on [#6363](https://github.com/element-hq/element-x-android/pull/6363#issuecomment-4198574320) in [element-hq/element-x-android](https://github.com/element-hq/element-x-android)
 2. 💪 Opened PR [#908](https://github.com/mautrix/whatsapp/pull/908) in [mautrix/whatsapp](https://github.com/mautrix/whatsapp)
 3. ❗ Opened issue [#907](https://github.com/mautrix/whatsapp/issues/907) in [mautrix/whatsapp](https://github.com/mautrix/whatsapp)
 4. 🎉 Merged PR [#6433](https://github.com/element-hq/element-x-android/pull/6433) in [element-hq/element-x-android](https://github.com/element-hq/element-x-android)
