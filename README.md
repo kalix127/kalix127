@@ -11,9 +11,9 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/codelined-ag/secret-stripper/pull/5) in [codelined-ag/secret-stripper](https://github.com/codelined-ag/secret-stripper)
-2. 💪 Opened PR [#5](https://github.com/codelined-ag/secret-stripper/pull/5) in [codelined-ag/secret-stripper](https://github.com/codelined-ag/secret-stripper)
-3. ℹ️ Assigned PR [#5](https://github.com/codelined-ag/secret-stripper/pull/5) in [codelined-ag/secret-stripper](https://github.com/codelined-ag/secret-stripper)
-4. 🎉 Merged PR [#4](https://github.com/codelined-ag/secret-stripper/pull/4) in [codelined-ag/secret-stripper](https://github.com/codelined-ag/secret-stripper)
+1. 🎉 Merged PR [#1106](https://github.com/tulir/whatsmeow/pull/1106) in [tulir/whatsmeow](https://github.com/tulir/whatsmeow)
+2. 🗣 Commented on [#1105](https://github.com/tulir/whatsmeow/issues/1105#issuecomment-4273490306) in [tulir/whatsmeow](https://github.com/tulir/whatsmeow)
+3. 🎉 Merged PR [#6464](https://github.com/element-hq/element-x-android/pull/6464) in [element-hq/element-x-android](https://github.com/element-hq/element-x-android)
+4. 🗣 Commented on [#6432](https://github.com/element-hq/element-x-android/pull/6432#issuecomment-4263382299) in [element-hq/element-x-android](https://github.com/element-hq/element-x-android)
 5. 💪 Opened PR [#4](https://github.com/codelined-ag/secret-stripper/pull/4) in [codelined-ag/secret-stripper](https://github.com/codelined-ag/secret-stripper)
 <!--END_SECTION:activity-->
