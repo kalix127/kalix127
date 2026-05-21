@@ -11,8 +11,8 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1106](https://github.com/tulir/whatsmeow/pull/1106) in [tulir/whatsmeow](https://github.com/tulir/whatsmeow)
-2. 🗣 Commented on [#1105](https://github.com/tulir/whatsmeow/issues/1105#issuecomment-4273490306) in [tulir/whatsmeow](https://github.com/tulir/whatsmeow)
+1. 🎉 Merged PR [#6363](https://github.com/element-hq/element-x-android/pull/6363) in [element-hq/element-x-android](https://github.com/element-hq/element-x-android)
+2. 🎉 Merged PR [#1106](https://github.com/tulir/whatsmeow/pull/1106) in [tulir/whatsmeow](https://github.com/tulir/whatsmeow)
 3. 🎉 Merged PR [#6464](https://github.com/element-hq/element-x-android/pull/6464) in [element-hq/element-x-android](https://github.com/element-hq/element-x-android)
 4. 🗣 Commented on [#6432](https://github.com/element-hq/element-x-android/pull/6432#issuecomment-4263382299) in [element-hq/element-x-android](https://github.com/element-hq/element-x-android)
 5. 💪 Opened PR [#4](https://github.com/codelined-ag/secret-stripper/pull/4) in [codelined-ag/secret-stripper](https://github.com/codelined-ag/secret-stripper)
