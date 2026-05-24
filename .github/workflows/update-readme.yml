@@ -2,7 +2,7 @@ name: Update README with Recent Activity
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 0 */3 * *"
   workflow_dispatch:
 
 jobs:
@@ -18,5 +18,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           GH_USERNAME: "kalix127"
-          MAX_LINES: "5"
+          MAX_LINES: "3"
           COMMIT_MSG: "chore: update recent activity"
