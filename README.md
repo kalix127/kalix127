@@ -11,7 +11,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6363](https://github.com/element-hq/element-x-android/pull/6363) in [element-hq/element-x-android](https://github.com/element-hq/element-x-android)
-2. 🎉 Merged PR [#1106](https://github.com/tulir/whatsmeow/pull/1106) in [tulir/whatsmeow](https://github.com/tulir/whatsmeow)
-3. 🎉 Merged PR [#6464](https://github.com/element-hq/element-x-android/pull/6464) in [element-hq/element-x-android](https://github.com/element-hq/element-x-android)
+1. 🎉 Merged PR [#2](https://github.com/kalix127/secret-stripper/pull/2) in [kalix127/secret-stripper](https://github.com/kalix127/secret-stripper)
+2. 💪 Opened PR [#2](https://github.com/kalix127/secret-stripper/pull/2) in [kalix127/secret-stripper](https://github.com/kalix127/secret-stripper)
+3. ℹ️ Assigned PR [#2](https://github.com/kalix127/secret-stripper/pull/2) in [kalix127/secret-stripper](https://github.com/kalix127/secret-stripper)
 <!--END_SECTION:activity-->
