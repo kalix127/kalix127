@@ -11,7 +11,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#280](https://github.com/toolleeo/awesome-cli-apps-in-a-csv/pull/280) in [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv)
-2. ❌ Closed PR [#1](https://github.com/kalix127/awesome-cli-apps-in-a-csv/pull/1) in [kalix127/awesome-cli-apps-in-a-csv](https://github.com/kalix127/awesome-cli-apps-in-a-csv)
-3. 💪 Opened PR [#1](https://github.com/kalix127/awesome-cli-apps-in-a-csv/pull/1) in [kalix127/awesome-cli-apps-in-a-csv](https://github.com/kalix127/awesome-cli-apps-in-a-csv)
+1. 🎉 Merged PR [#6](https://github.com/kalix127/secret-stripper/pull/6) in [kalix127/secret-stripper](https://github.com/kalix127/secret-stripper)
+2. 💪 Opened PR [#6](https://github.com/kalix127/secret-stripper/pull/6) in [kalix127/secret-stripper](https://github.com/kalix127/secret-stripper)
+3. 💪 Opened PR [#280](https://github.com/toolleeo/awesome-cli-apps-in-a-csv/pull/280) in [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv)
 <!--END_SECTION:activity-->
