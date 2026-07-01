@@ -11,7 +11,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1128](https://github.com/agarrharr/awesome-cli-apps/pull/1128) in [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
-2. 🎉 Merged PR [#6](https://github.com/kalix127/secret-stripper/pull/6) in [kalix127/secret-stripper](https://github.com/kalix127/secret-stripper)
-3. 💪 Opened PR [#6](https://github.com/kalix127/secret-stripper/pull/6) in [kalix127/secret-stripper](https://github.com/kalix127/secret-stripper)
+1. 🎉 Merged PR [#10](https://github.com/kalix127/secret-stripper/pull/10) in [kalix127/secret-stripper](https://github.com/kalix127/secret-stripper)
+2. 💪 Opened PR [#10](https://github.com/kalix127/secret-stripper/pull/10) in [kalix127/secret-stripper](https://github.com/kalix127/secret-stripper)
+3. ℹ️ Assigned PR [#10](https://github.com/kalix127/secret-stripper/pull/10) in [kalix127/secret-stripper](https://github.com/kalix127/secret-stripper)
 <!--END_SECTION:activity-->
