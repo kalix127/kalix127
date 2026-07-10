@@ -11,7 +11,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1464](https://github.com/element-hq/element-x-android/issues/1464#issuecomment-4879890194) in [element-hq/element-x-android](https://github.com/element-hq/element-x-android)
-2. ℹ️ Labeled issue [#7150](https://github.com/element-hq/element-x-android/issues/7150) in [element-hq/element-x-android](https://github.com/element-hq/element-x-android)
-3. ❗ Opened issue [#7150](https://github.com/element-hq/element-x-android/issues/7150) in [element-hq/element-x-android](https://github.com/element-hq/element-x-android)
+1. ❗ Opened issue [#3268](https://github.com/element-hq/element-meta/issues/3268) in [element-hq/element-meta](https://github.com/element-hq/element-meta)
+2. 🗣 Commented on [#1464](https://github.com/element-hq/element-x-android/issues/1464#issuecomment-4879890194) in [element-hq/element-x-android](https://github.com/element-hq/element-x-android)
+3. 🗣 Commented on [#6346](https://github.com/element-hq/element-x-android/pull/6346#issuecomment-4867564559) in [element-hq/element-x-android](https://github.com/element-hq/element-x-android)
 <!--END_SECTION:activity-->
